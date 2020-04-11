@@ -6,3 +6,4 @@ if mood == "romance":
     print("Sleep well")
 else:
     print("Sleep")
+    print("Good night")
